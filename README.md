@@ -4,5 +4,5 @@ I used here some Jupyter notebooks (files with the extension `.ipynb`. To run th
 
 ## Jupyter notebooks
 
-- [index.ipynb](index.ipynb)
+Please see all the files tihle the "'ipnb`" in the root directory. 
 
